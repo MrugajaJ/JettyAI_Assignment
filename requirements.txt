@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+newspaper3k
+youtube-transcript-api
+google-api-python-client
+langdetect
+keybert
+yake
+httpx
+python-dotenv
